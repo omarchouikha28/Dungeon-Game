@@ -58,4 +58,3 @@ Einige Beispiel-Aufrufe:
 ./dungeon -o ausgabe.txt
 ./dungeon -i eingabe.txt -o ausgabe.txt level.txt
 ./dungeon level.txt -i eingabe.txt -o ausgabe.txt
-
